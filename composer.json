@@ -8,12 +8,12 @@
     "authors": [
         {
             "name": "tianming",
-            "email": "tianming2015@foxmaik.com",
+            "email": "tianming2015@foxmail.com",
             "role": "Developer"
         }
     ],
     "support": {
-        "email": "tianming2015@foxmaik.com",
+        "email": "tianming2015@foxmail.com",
         "source":"https://github.com/Tamn9208/treeData"
     },
     "minimum-stability": "stable",
