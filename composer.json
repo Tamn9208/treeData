@@ -1,5 +1,5 @@
 {
-    "name": "tamn/treeData",
+    "name": "tamn/tree-data",
     "version": "1.0.0",
     "description": "A closure table tree package for laravel eloquent",
     "keywords": ["laravel", "tree", "closure-table", "eloquent", "laravel-tree"],
@@ -14,7 +14,7 @@
     ],
     "support": {
         "email": "tianming2015@foxmaik.com",
-        "source":"https://github.com/jiaxincui/closure-table"
+        "source":"https://github.com/Tamn9208/treeData"
     },
     "minimum-stability": "stable",
     "require": {
