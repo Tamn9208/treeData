@@ -1,6 +1,6 @@
 <?php
 
-namespace Jiaxincui\ClosureTable\Extensions;
+namespace Tamn\ClosureTable\Extensions;
 
 use Illuminate\Database\Eloquent\Collection;
 

@@ -1,6 +1,6 @@
 {
     "name": "tamn/tree-data",
-    "version": "1.0.0",
+    "version": "1.0.1",
     "description": "A closure table tree package for laravel eloquent",
     "keywords": ["laravel", "tree", "closure-table", "eloquent", "laravel-tree"],
     "type": "library",

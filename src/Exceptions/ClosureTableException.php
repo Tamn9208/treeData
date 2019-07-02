@@ -1,5 +1,5 @@
 <?php
-namespace Jiaxincui\ClosureTable\Exceptions;
+namespace Tamn\ClosureTable\Exceptions;
 
 use Exception;
 

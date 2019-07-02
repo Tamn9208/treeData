@@ -1,13 +1,13 @@
 <?php
-namespace Jiaxincui\ClosureTable\Traits;
+namespace Tamn\ClosureTable\Traits;
 
 use Illuminate\Database\Eloquent\Model;
 use Illuminate\Database\Eloquent\Collection;
 use Illuminate\Database\Eloquent\ModelNotFoundException;
 use Illuminate\Support\Facades\DB;
 use Illuminate\Support\Str;
-use Jiaxincui\ClosureTable\Exceptions\ClosureTableException;
-use Jiaxincui\ClosureTable\Extensions\CollectionExtension;
+use Tamn\ClosureTable\Exceptions\ClosureTableException;
+use Tamn\ClosureTable\Extensions\CollectionExtension;
 
 trait ClosureTable
 {
